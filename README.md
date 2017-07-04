@@ -11,7 +11,16 @@ Alternatively, copy the contents of the `json` file and paste it into the Node-R
  
 
 ## Installation
-Node-RED must be installed. In addition, there are several extra nodes that are required for the flows to work. Here is a listing of the additional nodes.
+
+### Install MongoDB 
+*(used as the database for various sample flows)*
+
+https://docs.mongodb.com/manual/installation/
+
+### Install Node-RED
+https://nodered.org/docs/getting-started/installation
+
+In addition, there are several extra nodes that are required for the flows to work. Here is a listing of the additional nodes.
 
 - node-red-node-mongodb
 - node-red-contrib-mongodb2
@@ -26,6 +35,7 @@ npm install node-red-node-mongodb node-red-contrib-mongodb2 node-red-contrib-mer
 #start node-red
 node-red
 ```
+
 
 ## More information and installation instructions
 * Node-RED: https://nodered.org/
