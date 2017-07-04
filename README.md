@@ -5,7 +5,7 @@ A collection of Node-RED flows to demonstrate Meraki API solutions.
 ## Usage
 The repository contains flow files with a `.json` extension. 
 
-You can download the file and then run `node-red filename.json` to launch Node-RED with this applications.
+You can download the file and then run `node-red filename.json` to launch Node-RED with the application file.
 
 Alternatively, copy the contents of the `json` file and paste it into the Node-RED editor via the **Import** option, then paste from **Clipboard**
  
