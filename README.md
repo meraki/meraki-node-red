@@ -13,10 +13,10 @@ Alternatively, copy the contents of the `json` file and paste it into the Node-R
 ## Installation
 Node-RED must be installed. In addition, there are several extra nodes that are required for the flows to work. Here is a listing of the additional nodes.
 
-node-red-node-mongodb
-node-red-contrib-mongodb2
-node-red-contrib-meraki-cmx
-node-red-contrib-spark
+- node-red-node-mongodb
+- node-red-contrib-mongodb2
+- node-red-contrib-meraki-cmx
+- node-red-contrib-spark
 
 ```
 cd ~
